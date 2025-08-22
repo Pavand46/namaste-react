@@ -1,0 +1,94 @@
+{
+  "info": {
+    "id": "37103",
+    "name": "KFC",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/eed0d095-8ec1-45d9-b1ca-f9a36c92ea67_37103.JPG",
+    "locality": "Abids",
+    "areaName": "Abids",
+    "costForTwo": "₹400 for two",
+    "cuisines": ["Burgers", "Fast Food", "Rolls & Wraps"],
+    "avgRating": 4.1,
+    "parentId": "547",
+    "avgRatingString": "4.1",
+    "totalRatingsString": "16K+",
+    "sla": {
+      "deliveryTime": 26,
+      "lastMileTravel": 1.7,
+      "serviceability": "SERVICEABLE",
+      "slaString": "25-30 mins",
+      "lastMileTravelString": "1.7 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2025-06-22 00:45:00",
+      "opened": true
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+          "description": "bolt!"
+        },
+        {
+          "imageId": "Rxawards/_CATEGORY-Burger.png",
+          "description": "Delivery!"
+        }
+      ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {
+          "badgeObject": [
+            {
+              "attributes": {
+                "description": "bolt!",
+                "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+              }
+            },
+            {
+              "attributes": {
+                "description": "Delivery!",
+                "imageId": "Rxawards/_CATEGORY-Burger.png"
+              }
+            }
+          ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "65% OFF",
+      "subHeader": "UPTO ₹125",
+      "headerTypeV2": 12
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "4.0",
+        "ratingCount": "4.8K+"
+      },
+      "source": "GOOGLE",
+      "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {
+    "context": "seo-data-a09beda9-bc18-41b0-80af-b244e14b07d2"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/city/hyderabad/kfc-abids-rest37103",
+    "type": "WEBLINK"
+  }
+}

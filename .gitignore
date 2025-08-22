@@ -1,0 +1,14 @@
+
+
+# Node modules
+node_modules/
+
+# Parcel cache
+.parcel-cache/
+
+# Production build
+dist/
+
+/coverage
+# Local Netlify folder
+.netlify
