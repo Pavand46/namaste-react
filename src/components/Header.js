@@ -35,7 +35,8 @@ const Header = () => {
           </li>
           <li>
             <Link to="/cart" className="nav-link">
-              Cart - ({cartItems.length} items)
+              {/* Cart - ({cartItems.length} items) */}
+              Cart
             </Link>
           </li>
           <button
